@@ -595,3 +595,54 @@ location = /wiki/Xadow_Pebble_Time_Adapter {
 location = /wiki/Grove_-_Serial_Camera {
     rewrite ^/ http://wiki.seeed.cc/Grove-Serial_Camera/ permanent;
 }
+location = /wiki/Grove_-_Solid_State_Relay {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Solid_State_Relay/ permanent;
+}
+location = /wiki/Grove_-_SPDT_Relay(30A) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Solid_State_Relay/ permanent;
+}
+location = /wiki/Grove_-_Starter_Kit_for_mbed {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Starter_Kit_for_mbed/ permanent;
+}
+location = /wiki/Grove_-_Sunlight_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Sunlight_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Voltage_Divider {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Voltage_Divider/ permanent;
+}
+location = /wiki/Xadow_-_3-Axis_Digital_Accelerometer(±400g) {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_3_Aixs_Digital_Accelerometer_plusandminus_400g/ permanent;
+}
+location = /wiki/Xadow_-_Barometer {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Barometer/ permanent;
+}
+location = /wiki/Xadow_-_Barometer_BMP180 {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Barometer_BMP180/ permanent;
+}
+location = /wiki/Xadow_-_BLE {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_BLE/ permanent;
+}
+location = /wiki/Xadow_-_BLE_(dual_model)_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_BLE_Dual_Model_V1.0/ permanent;
+}
+location = /wiki/Xadow_-_BLE_Slave {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_BLE_Slave/ permanent;
+}
+location = /wiki/Xadow_-_Breakout {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Breakout/ permanent;
+}
+location = /wiki/Xadow_-_Buzzer {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Buzzer/ permanent;
+}
+location = /wiki/Xadow_-_Compass {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Compass/ permanent;
+}
+location = /wiki/Xadow_-_Edison_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Edison_Kit/ permanent;
+}
+location = /wiki/Xadow_-_Gesture_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Gesture_v1.0/ permanent;
+}
+location = /wiki/Xadow_-_GPS {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_GPS/ permanent;
+}
