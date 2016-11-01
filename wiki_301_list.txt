@@ -1,0 +1,597 @@
+location = /wiki/2.8''_TFT_Touch_Shield_v2.0 {
+    rewrite ^/ http://wiki.seeed.cc/2.8inch_TFT_Touch_Shield_v2.0/ permanent;
+}
+location = /wiki/Arch_BLE {
+    rewrite ^/ http://wiki.seeed.cc/Arch_BLE/ permanent;
+}
+location = /wiki/Arch_GPRS_V2 {
+    rewrite ^/ http://wiki.seeed.cc/Arch_GPRS_V2/ permanent;
+}
+location = /wiki/Arch_Link {
+    rewrite ^/ http://wiki.seeed.cc/Arch_Link/ permanent;
+}
+location = /wiki/Arch_Max_v1.1 {
+    rewrite ^/ http://wiki.seeed.cc/Arch_Max_v1.1/ permanent;
+}
+location = /wiki/Arch_Pro {
+    rewrite ^/ http://wiki.seeed.cc/Arch_Pro/ permanent;
+}
+location = /wiki/Arch_V1.1 {
+    rewrite ^/ http://wiki.seeed.cc/Arch_V1.1/ permanent;
+}
+location = /wiki/Arduino_Breakout_for_LinkIt_Smart_7688_Duo {
+    rewrite ^/ http://wiki.seeed.cc/Arduino_Breakout_for_LinkIt_Smart_7688_Duo/ permanent;
+}
+location = /wiki/Arduino_IDE_for_RePhone_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Arduino_IDE_for_RePhone_Kit/ permanent;
+}
+location = /wiki/Base_shield_v2 {
+    rewrite ^/ http://wiki.seeed.cc/Base_Shield_V2/ permanent;
+}
+location = /wiki/Battery_Detector_with_Polymer_Lithium_Ion_1050mAh_3.7V {
+    rewrite ^/ http://wiki.seeed.cc/Battery_Detector_with_Polymer_Lithium_Ion_1050mAh_3.7V/ permanent;
+}
+location = /wiki/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V {
+    rewrite ^/ http://wiki.seeed.cc/Battery_Detector_with_Polymer_Lithium_Ion_5100mAh_3.8V/ permanent;
+}
+location = /wiki/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS {
+    rewrite ^/ http://wiki.seeed.cc/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS/ permanent;
+}
+location = /wiki/BeagleBone_Green {
+    rewrite ^/ http://wiki.seeed.cc/BeagleBone_Green/ permanent;
+}
+location = /wiki/BeagleBone_Green_HDMI_Cape {
+    rewrite ^/ http://wiki.seeed.cc/BeagleBone_Green_HDMI_Cape/ permanent;
+}
+location = /wiki/SeeedStudio_BeagleBone_Green_Wireless {
+    rewrite ^/ http://wiki.seeed.cc/BeagleBone_Green_Wireless/ permanent;
+}
+location = /wiki/Breakout_for_LinkIt_Smart_7688_v2.0 {
+    rewrite ^/ http://wiki.seeed.cc/Breakout_for_LinkIt_Smart_7688_v2.0/ permanent;
+}
+location = /wiki/CAN-BUS_Shield_V1.2 {
+    rewrite ^/ http://wiki.seeed.cc/CAN-BUS_Shield_V1.2/ permanent;
+}
+location = /wiki/CAN_BUS_Shield {
+    rewrite ^/ http://wiki.seeed.cc/CAN-BUS_Shield_V1.2/ permanent;
+}
+location = /wiki/CAN-BUS_Shield {
+    rewrite ^/ http://wiki.seeed.cc/CAN-BUS_Shield_V1.2/ permanent;
+}
+location = /wiki/EL_Shield {
+    rewrite ^/ http://wiki.seeed.cc/EL_Shield/ permanent;
+}
+location = /wiki/Energy_Shield {
+    rewrite ^/ http://wiki.seeed.cc/Energy_Shield/ permanent;
+}
+location = /wiki/Grove_-_125KHz_RFID_Reader {
+    rewrite ^/ http://wiki.seeed.cc/Grove-125KHz_RFID_Reader/ permanent;
+}
+location = /wiki/Grove_-_2-Coil_Latching_Relay {
+    rewrite ^/ http://wiki.seeed.cc/Grove-2-Coil_Latching_Relay/ permanent;
+}
+location = /wiki/Grove_-_3-Axis_Digital_Accelerometer(±16g) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-3-Axis_Digital_Accelerometer-16g/ permanent;
+}
+location = /wiki/Grove_-_3-Axis_Analog_Accelerometer {
+    rewrite ^/ http://wiki.seeed.cc/Grove-3-Axis_Analog_Accelerometer/ permanent;
+}
+location = /wiki/Grove_-_3-Axis_Compass_V1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-3-Axis_Compass_V1.0/ permanent;
+}
+location = /wiki/Grove_-_3-Axis_Digital_Accelerometer(±1.5g) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-3-Axis_Digital_Accelerometer-1.5g/ permanent;
+}
+location = /wiki/Grove_-_3-Axis_Digital_Accelerometer(±400g) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-3-Axis_Digital_Accelerometer-400g/ permanent;
+}
+location = /wiki/Grove_-_3-Axis_Digital_Gyro {
+    rewrite ^/ http://wiki.seeed.cc/Grove-3-Axis_Digital_Gyro/ permanent;
+}
+location = /wiki/Grove_-_315MHz_RF_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Grove-315MHz_RF_Kit/ permanent;
+}
+location = /wiki/Grove_-_4-Digit_Display {
+    rewrite ^/ http://wiki.seeed.cc/Grove-4-Digit_Display/ permanent;
+}
+location = /wiki/Grove_-_433MHz_Simple_RF_Link_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Grove-433MHz_Simple_RF_Link_Kit/ permanent;
+}
+location = /wiki/Grove_-_6-Axis_Accelerometer&Compass_V2.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-6-Axis_AccelerometerAndCompass_V2.0/ permanent;
+}
+location = /wiki/Grove_-_6-Axis_Accelerometer&Gyroscope {
+    rewrite ^/ http://wiki.seeed.cc/Grove-6-Axis_AccelerometerAndGyroscope/ permanent;
+}
+location = /wiki/Grove_-_80cm_Infrared_Proximity_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-80cm_Infrared_Proximity_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Air_Quality_Sensor_v1.3 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Air_Quality_Sensor_v1.3/ permanent;
+}
+location = /wiki/Grove_-_Alcohol_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Alcohol_Sensor/ permanent;
+}
+location = /wiki/Grove_-_BLE_(dual_model)_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-BLE-dual_model-v1.0/ permanent;
+}
+location = /wiki/Grove_-_Barometer_(High-Accuracy) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Barometer-High-Accuracy/ permanent;
+}
+location = /wiki/Grove_-_Barometer_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Barometer_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Barometer_Sensor_(BMP180) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Barometer_Sensor-BMP180/ permanent;
+}
+location = /wiki/Grove_-_Barometer_Sensor_(BMP280) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Barometer_Sensor-BMP280/ permanent;
+}
+location = /wiki/Grove_-_Barometer_Sensor(BME280) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Barometer_Sensor-BME280/ permanent;
+}
+location = /wiki/Grove_-_Button {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Button/ permanent;
+}
+location = /wiki/Grove_-_Buzzer {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Buzzer/ permanent;
+}
+location = /wiki/Grove_-_CO2_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-CO2_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Chainable_RGB_LED {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Chainable_RGB_LED/ permanent;
+}
+location = /wiki/Grove_-_Chest_Strap_Heart_Rate_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Chest_Strap_Heart_Rate_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Collision_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Collision_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Differential_Amplifier_v1.2 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Differential_Amplifier_v1.2/ permanent;
+}
+location = /wiki/Grove_-_Digital_Infrared_Temperature_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Digital_Infrared_Temperature_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Digital_Light_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Digital_Light_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Dry-Reed_Relay {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Dry-Reed_Relay/ permanent;
+}
+location = /wiki/Grove_-_Dust_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Dust_Sensor/ permanent;
+}
+location = /wiki/Grove_-_EL_Driver {
+    rewrite ^/ http://wiki.seeed.cc/Grove-EL_Driver/ permanent;
+}
+location = /wiki/Grove_-_EMG_Detector {
+    rewrite ^/ http://wiki.seeed.cc/Grove-EMG_Detector/ permanent;
+}
+location = /wiki/Grove_-_Ear-clip_Heart_Rate_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Ear-clip_Heart_Rate_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Electricity_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Electricity_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Electromagnet {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Electromagnet/ permanent;
+}
+location = /wiki/Grove_-_Encoder {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Encoder/ permanent;
+}
+location = /wiki/Grove_-_FM_Receiver {
+    rewrite ^/ http://wiki.seeed.cc/Grove-FM_Receiver/ permanent;
+}
+location = /wiki/Grove_-_Fingerprint_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Fingerprint_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Flame_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Flame_Sensor/ permanent;
+}
+location = /wiki/Grove_-_GPS {
+    rewrite ^/ http://wiki.seeed.cc/Grove-GPS/ permanent;
+}
+location = /wiki/Grove_-_GSR_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-GSR_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Gas_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Gas_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Gas_Sensor(MQ2) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Gas_Sensor-MQ2/ permanent;
+}
+location = /wiki/Grove_-_Gas_Sensor(MQ3) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Gas_Sensor-MQ3/ permanent;
+}
+location = /wiki/Grove_-_Gas_Sensor(MQ5) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Gas_Sensor-MQ5/ permanent;
+}
+location = /wiki/Grove_-_Gas_Sensor(MQ9) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Gas_Sensor-MQ9/ permanent;
+}
+location = /wiki/Grove_-_Gas_Sensor(O₂){
+    rewrite ^/ http://wiki.seeed.cc/Grove-Gas_Sensor-O2/ permanent;
+}
+location = /wiki/Grove_-_Gesture_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Gesture_v1.0/ permanent;
+}
+location = /wiki/Grove_-_HCHO_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-HCHO_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Hall_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Hall_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Haptic_Motor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Haptic_Motor/ permanent;
+}
+location = /wiki/Grove_-_High_Temperature_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-High_Temperature_Sensor/ permanent;
+}
+location = /wiki/Grove_-_I2C_ADC {
+    rewrite ^/ http://wiki.seeed.cc/Grove-I2C_ADC/ permanent;
+}
+location = /wiki/Grove_-_I2C_Color_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-I2C_Color_Sensor/ permanent;
+}
+location = /wiki/Grove_-_I2C_FM_Receiver {
+    rewrite ^/ http://wiki.seeed.cc/Grove-I2C_FM_Receiver/ permanent;
+}
+location = /wiki/Grove_-_I2C_Hub {
+    rewrite ^/ http://wiki.seeed.cc/Grove-I2C_Hub/ permanent;
+}
+location = /wiki/Grove_-_I2C_Motor_Driver {
+    rewrite ^/ http://wiki.seeed.cc/Grove-I2C_Motor_Driver/ permanent;
+}
+location = /wiki/Grove_-_I2C_Motor_Driver_V1.3 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-I2C_Motor_Driver_V1.3/ permanent;
+}
+location = /wiki/Grove_-_I2C_Touch_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-I2C_Touch_Sensor/ permanent;
+}
+location = /wiki/Grove_-_IMU_10DOF {
+    rewrite ^/ http://wiki.seeed.cc/Grove-IMU_10DOF/ permanent;
+}
+location = /wiki/Grove_-_IMU_9DOF_v2.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-IMU_9DOF_v2.0/ permanent;
+}
+location = /wiki/Grove_-_IR_Distance_Interrupter_v1.2 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-IR_Distance_Interrupter_v1.2/ permanent;
+}
+location = /wiki/Grove_-_Infrared_Emitter {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Infrared_Emitter/ permanent;
+}
+location = /wiki/Grove_-_Infrared_Receiver {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Infrared_Receiver/ permanent;
+}
+location = /wiki/Grove_-_Infrared_Reflective_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Infrared_Reflective_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Infrared_Temperature_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Infrared_Temperature_Sensor/ permanent;
+}
+location = /wiki/Grove_-_LCD_RGB_Backlight {
+    rewrite ^/ http://wiki.seeed.cc/Grove-LCD_RGB_Backlight/ permanent;
+}
+location = /wiki/Grove_-_LED_Bar {
+    rewrite ^/ http://wiki.seeed.cc/Grove-LED_Bar/ permanent;
+}
+location = /wiki/Grove_-_LED_Matrix_Driver_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-LED_Matrix_Driver_v1.0/ permanent;
+}
+location = /wiki/Grove_-_Light_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Light_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Line_Finder {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Line_Finder/ permanent;
+}
+location = /wiki/Grove_-_Loudness_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Loudness_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Luminance_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Luminance_Sensor/ permanent;
+}
+location = /wiki/Grove_-_MOSFET {
+    rewrite ^/ http://wiki.seeed.cc/Grove-MOSFET/ permanent;
+}
+location = /wiki/Grove_-_MP3_v2.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-MP3_v2.0/ permanent;
+}
+location = /wiki/Grove_-_Magnetic_Switch {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Magnetic_Switch/ permanent;
+}
+location = /wiki/Grove_-_Mini_Camera {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Mini_Camera/ permanent;
+}
+location = /wiki/Grove_-_Mini_I2C_Motor_Driver_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Mini_I2C_Motor_Driver_v1.0/ permanent;
+}
+location = /wiki/Grove_-_Mini_Track_Ball {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Mini_Track_Ball/ permanent;
+}
+location = /wiki/Grove_-_Moisture_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Moisture_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Mouser_Encoder {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Mouse_Encoder/ permanent;
+}
+location = /wiki/Grove_-_Multichannel_Gas_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Multichannel_Gas_Sensor/ permanent;
+}
+location = /wiki/Grove_-_NFC {
+    rewrite ^/ http://wiki.seeed.cc/Grove-NFC/ permanent;
+}
+location = /wiki/Grove_-_NFC_Tag {
+    rewrite ^/ http://wiki.seeed.cc/Grove-NFC_Tag/ permanent;
+}
+location = /wiki/Grove_-_OLED_Display_0.96" {
+    rewrite ^/ http://wiki.seeed.cc/Grove-OLED_Display_0.96inch/ permanent;
+}
+location = /wiki/Grove_-_OLED_Display_1.12" {
+    rewrite ^/ http://wiki.seeed.cc/Grove-OLED_Display_1.12inch/ permanent;
+}
+location = /wiki/Grove_-_PIR_Motion_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-PIR_Motion_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Piezo_Vibration_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Piezo_Vibration_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Q_Touch_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Q_Touch_Sensor/ permanent;
+}
+location = /wiki/Grove_-_RTC {
+    rewrite ^/ http://wiki.seeed.cc/Grove-RTC/ permanent;
+}
+location = /wiki/Grove_-_Recorder_v2.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Recorder_v2.0/ permanent;
+}
+location = /wiki/Grove_-_Relay {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Relay/ permanent;
+}
+location = /wiki/Grove_-_Rotary_Angle_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Rotary_Angle_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Serial_Bluetooth_v3.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Serial_Bluetooth_v3.0/ permanent;
+}
+location = /wiki/Grove_-_Serial_MP3_Player {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Serial_MP3_Player/ permanent;
+}
+location = /wiki/Grove_-_Slide_Potentiometer {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Slide_Potentiometer/ permanent;
+}
+location = /wiki/Grove_-_Sound_Recorder {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Sound_Recorder/ permanent;
+}
+location = /wiki/Grove_-_Sound_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Sound_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Speaker {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Speaker/ permanent;
+}
+location = /wiki/Grove_-_Starter_Kit_for_LinkIt_ONE {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Starter_Kit_for_LinkIt_ONE/ permanent;
+}
+location = /wiki/Grove_-_Switch(P) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Switch-P/ permanent;
+}
+location = /wiki/Grove_-_Temp&Humi_Sensor(SHT31) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-TempAndHumi_Sensor-SHT31/ permanent;
+}
+location = /wiki/Grove_-_Temperature_Sensor_V1.2 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Temperature_Sensor_V1.2/ permanent;
+}
+location = /wiki/Grove_-_Temperature_and_Humidity_Sensor_Pro {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Temperature_and_Humidity_Sensor_Pro/ permanent;
+}
+location = /wiki/Grove_-_Temperature&Humidity_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-TemperatureAndHumidity_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Temperature&Humidity_Sensor_(HDC1000) {
+    rewrite ^/ http://wiki.seeed.cc/Grove-TemperatureAndHumidity_Sensor-HDC1000/ permanent;
+}
+location = /wiki/Grove_-_Tempture&Humidity_Sensor_(High-Accuracy_&Mini)_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/ permanent;
+}
+location = /wiki/Grove_-_Thumb_Joystick {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Thumb_Joystick/ permanent;
+}
+location = /wiki/Grove_-_Tilt_Switch {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Tilt_Switch/ permanent;
+}
+location = /wiki/Grove_-_Touch_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Touch_Sensor/ permanent;
+}
+location = /wiki/Grove_-_UART_WiFi {
+    rewrite ^/ http://wiki.seeed.cc/Grove-UART_Wifi/ permanent;
+}
+location = /wiki/Grove_-_UV_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-UV_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Ultrasonic_Ranger {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Ultrasonic_Ranger/ permanent;
+}
+location = /wiki/Grove_-_Variable_Color_LED {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Variable_Color_LED/ permanent;
+}
+location = /wiki/Grove_-_Vibration_Motor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Vibration_Motor/ permanent;
+}
+location = /wiki/Grove_-_Water_Atomization {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Water_Atomization/ permanent;
+}
+location = /wiki/Grove_-_Water_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Water_Sensor/ permanent;
+}
+location = /wiki/Grove_BLE_v1 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-BLE_v1/ permanent;
+}
+location = /wiki/Grove_Breakout_for_LinkIt_Smart_7688_Duo {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Breakout_for_LinkIt_Smart_7688_Duo/ permanent;
+}
+location = /wiki/Grove_Starter_Kit_for_BeagleBone_Green {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Starter_Kit_for_BeagleBone_Green/ permanent;
+}
+location = /wiki/Grove_Starter_kit_for_LinkIt_Smart7688_Duo {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Starter_kit_for_LinkIt_Smart7688_Duo/ permanent;
+}
+location = /wiki/Grove_System {
+    rewrite ^/ http://wiki.seeed.cc/Grove_System/ permanent;
+}
+location = /wiki/Hercules_Dual_15A_6-20V_Motor_Controller {
+    rewrite ^/ http://wiki.seeed.cc/Hercules_Dual_15A_6-20V_Motor_Controller/ permanent;
+}
+location = /wiki/I2C_LCD {
+    rewrite ^/ http://wiki.seeed.cc/I2C_LCD/ permanent;
+}
+location = /wiki/JavaScript_for_RePhone {
+    rewrite ^/ http://wiki.seeed.cc/JavaScript_for_RePhone/ permanent;
+}
+location = /wiki/LinkIt_ONE {
+    rewrite ^/ http://wiki.seeed.cc/LinkIt_ONE/ permanent;
+}
+location = /wiki/LinkIt_Smart_7688_Duo {
+    rewrite ^/ http://wiki.seeed.cc/LinkIt_Smart_7688_Duo/ permanent;
+}
+location = /wiki/Linkit_Connect_7681 {
+    rewrite ^/ http://wiki.seeed.cc/Linkit_Connect_7681/ permanent;
+}
+location = /wiki/Lipo_Rider_Pro {
+    rewrite ^/ http://wiki.seeed.cc/Lipo_Rider_Pro/ permanent;
+}
+location = /wiki/Lipo_Rider_V1.3 {
+    rewrite ^/ http://wiki.seeed.cc/Lipo_Rider_V1.3/ permanent;
+}
+location = /wiki/Lua_for_RePhone {
+    rewrite ^/ http://wiki.seeed.cc/Lua_for_RePhone/ permanent;
+}
+location = /wiki/Motor_Bridge_Cape_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Motor_Bridge_Cape_v1.0/ permanent;
+}
+location = /wiki/Motor_Shield_V2.0 {
+    rewrite ^/ http://wiki.seeed.cc/Motor_Shield_V2.0/ permanent;
+}
+location = /wiki/Music_Shield_V2.2 {
+    rewrite ^/ http://wiki.seeed.cc/Music_Shield_V2.2/ permanent;
+}
+location = /wiki/NFC_Shield_V2.0 {
+    rewrite ^/ http://wiki.seeed.cc/NFC_Shield_V2.0/ permanent;
+}
+location = /wiki/RFbee_V1.1_-_Wireless_Arduino_compatible_node {
+    rewrite ^/ http://wiki.seeed.cc/RFbee_V1.1-Wireless_Arduino_compatible_node/ permanent;
+}
+location = /wiki/RS232_Shield {
+    rewrite ^/ http://wiki.seeed.cc/RS232_Shield/ permanent;
+}
+location = /wiki/Rainbowduino_v3.0 {
+    rewrite ^/ http://wiki.seeed.cc/Rainbowduino_v3.0/ permanent;
+}
+location = /wiki/Raspberry_Pi_Breakout_Board_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Raspberry_Pi_Breakout_Board_v1.0/ permanent;
+}
+location = /wiki/Raspberry_Pi_Motor_Driver_Board_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Raspberry_Pi_Motor_Driver_Board_v1.0/ permanent;
+}
+location = /wiki/Raspberry_Pi_R232_Board_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Raspberry_Pi_R232_Board_v1.0/ permanent;
+}
+location = /wiki/Raspberry_Pi_Relay_Board_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Raspberry_Pi_Relay_Board_v1.0/ permanent;
+}
+location = /wiki/RePhone_APIs_-_Audio {
+    rewrite ^/ http://wiki.seeed.cc/RePhone_APIs-Audio/ permanent;
+}
+location = /wiki/Relay_Shield_v3.0 {
+    rewrite ^/ http://wiki.seeed.cc/Relay_Shield_v3/ permanent;
+}
+location = /wiki/SD_Card_shield_V4.0 {
+    rewrite ^/ http://wiki.seeed.cc/SD_Card_shield_V4.0/ permanent;
+}
+location = /wiki/Seeeduino_Cloud {
+    rewrite ^/ http://wiki.seeed.cc/Seeeduino_Cloud/ permanent;
+}
+location = /wiki/Seeeduino_Cloud_and_Grove_IoT_Starter_Kit_Powered_by_AWS {
+    rewrite ^/ http://wiki.seeed.cc/Seeeduino_Cloud_and_Grove_IoT_Starter_Kit_Powered_by_AWS/ permanent;
+}
+location = /wiki/Seeeduino_GPRS {
+    rewrite ^/ http://wiki.seeed.cc/Seeeduino_GPRS/ permanent;
+}
+location = /wiki/Seeeduino_Lotus_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Seeeduino_Lotus/ permanent;
+}
+location = /wiki/Seeeduino_Mega {
+    rewrite ^/ http://wiki.seeed.cc/Seeeduino_Mega/ permanent;
+}
+location = /wiki/Seeeduino_v4.2 {
+    rewrite ^/ http://wiki.seeed.cc/Seeeduino_v4.2/ permanent;
+}
+location = /wiki/Shield_Bot_V1.2 {
+    rewrite ^/ http://wiki.seeed.cc/Shield_Bot_V1.2/ permanent;
+}
+location = /wiki/UartSBee_v5 {
+    rewrite ^/ http://wiki.seeed.cc/UartSBee_v5/ permanent;
+}
+location = /wiki/W5500_Ethernet_Shield_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/W5500_Ethernet_Shield_v1.0/ permanent;
+}
+location = /wiki/Wifi_Shield_V2.0 {
+    rewrite ^/ http://wiki.seeed.cc/Wifi_Shield_V2.0/ permanent;
+}
+location = /wiki/Wio_Link {
+    rewrite ^/ http://wiki.seeed.cc/Wio_Link/ permanent;
+}
+location = /wiki/Wio_Link_Bootcamp_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Wio_Link_Bootcamp_Kit/ permanent;
+}
+location = /wiki/Wio_Link_Deluxe_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Wio_Link_Deluxe_Kit/ permanent;
+}
+location = /wiki/Wio_Link_Deluxe_Plus_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Wio_Link_Deluxe_Plus_Kit/ permanent;
+}
+location = /wiki/Wio_Link_Environment_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Wio_Link_Environment_Kit/ permanent;
+}
+location = /wiki/Wio_Link_Event_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Wio_Link_Event_Kit/ permanent;
+}
+location = /wiki/Wio_Link_Starter_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Wio_Link_Starter_Kit/ permanent;
+}
+location = /wiki/Wio_Node {
+    rewrite ^/ http://wiki.seeed.cc/Wio_Node/ permanent;
+}
+location = /wiki/Xadow_-_LED_5x7 {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_LED_5x7/ permanent;
+}
+location = /wiki/Xadow_1.54''_Touchscreen {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_1.54_inch_Touchscreen/ permanent;
+}
+location = /wiki/Xadow_Audio {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Audio/ permanent;
+}
+location = /wiki/Xadow_-_Basic_Sensors {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Basic_Sensors/ permanent;
+}
+location = /wiki/Xadow_Duino {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Duino/ permanent;
+}
+location = /wiki/Xadow_GPS_V2 {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_GPS_V2/ permanent;
+}
+location = /wiki/Xadow_GSM_Breakout {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_GSM_Breakout/ permanent;
+}
+location = /wiki/Xadow_GSM+BLE {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_GSMPlusBLE/ permanent;
+}
+location = /wiki/Xadow_-_NFC {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_NFC/ permanent;
+}
+location = /wiki/Xadow_Pebble_Time_Adapter {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Pebble_Time_Adapter/ permanent;
+}
+location = /wiki/Grove_-_Serial_Camera {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Serial_Camera/ permanent;
+}
