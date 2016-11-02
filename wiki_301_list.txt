@@ -646,3 +646,22 @@ location = /wiki/Xadow_-_Gesture_v1.0 {
 location = /wiki/Xadow_-_GPS {
     rewrite ^/ http://wiki.seeed.cc/Xadow_GPS/ permanent;
 }
+location = /wiki/Main_Page {
+    rewrite ^/ http://wiki.seeed.cc/ permanent;
+}
+location = /wiki/GROVE_System {
+    rewrite ^/ http://wiki.seeed.cc/Grove_System/ permanent;
+}
+location = /wiki/Category:Grove {
+    rewrite ^/ http://wiki.seeed.cc/Grove_System/ permanent;
+}
+location = /wiki/CAN_BUS_Shield {
+    rewrite ^/ http://wiki.seeed.cc/CAN-BUS_Shield_V1.2/ permanent;
+}
+location = /wiki/Category:Arduino {
+    rewrite ^/ http://wiki.seeed.cc/Arduino/ permanent;
+}
+location = /wiki/Beaglebone_green {
+    rewrite ^/ http://wiki.seeed.cc/BeagleBone_Green/ permanent;
+}
+
