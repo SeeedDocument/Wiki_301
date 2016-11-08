@@ -646,3 +646,84 @@ location = /wiki/Xadow_-_Gesture_v1.0 {
 location = /wiki/Xadow_-_GPS {
     rewrite ^/ http://wiki.seeed.cc/Xadow_GPS/ permanent;
 }
+location = /wiki/Xadow_-_IMU_10DOF {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_IMU_10DOF/ permanent;
+}
+location = /wiki/Xadow_-_IMU_6DOF {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_IMU_6DOF/ permanent;
+}
+location = /wiki/Xadow_-_IMU_9DOF {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_IMU_9DOF/ permanent;
+}
+location = /wiki/Xadow_-_M0 {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_M0/ permanent;
+}
+location = /wiki/Xadow_-_Main_Board {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Main_Board/ permanent;
+}
+location = /wiki/Xadow_-_Motor_Driver {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Motor_Driver/ permanent;
+}
+location = /wiki/Xadow_-_Multichannel_Gas_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Multichannel_Gas_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Starter_Kit_Plus {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Starter_Kit_Plus/ permanent;
+}
+location = /wiki/Grove_-_Starter_Kit_v3 {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Starter_Kit_v3/ permanent;
+}
+location = /wiki/Xadow_-_Grove_Adaptor {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Grove_Adaptor/ permanent;
+}
+location = /wiki/Xadow_-_LED_5X7 {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_LED_5_multiply_7_v1.0/ permanent;
+}
+location = /wiki/Xadow_-_OLED_128*64 {
+    rewrite ^/ http://wiki.seeed.cc/Xado_OLED_128multiply64/ permanent;
+}
+location = /wiki/Xadow_-_Q_Touch_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Q_Touch_Sensor/ permanent;
+}
+location = /wiki/Xadow_-_RGB_OLED_96*64 {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_RGB_OLED_96multiply64/ permanent;
+}
+location = /wiki/Xadow_-_NFC_Tag {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_NFC_tag/ permanent;
+}
+location = /wiki/Xadow_Metal_Frame {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Metal_Frame/ permanent;
+}
+location = /wiki/Xadow_-_Vibrator_Motor {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Vibrator_Motor/ permanent;
+}
+location = /wiki/Xadow_-_UV_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_UV_Sensor/ permanent;
+}
+location = /wiki/Xadow_-_Storage {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Storage/ permanent;
+}
+location = /wiki/Xadow_-_Storage {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Storage/ permanent;
+}
+location = /wiki/Xadow_-_RTC {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_RTC/ permanent;
+}
+location = /wiki/Xadow_Wearable_Kit_For_Edison {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Wearable_Kit_For_Edison/ permanent;
+}
+location = /wiki/Xadow_tutorial-shaking_shaking {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Tutorial_Shaking_Shaking/ permanent;
+}
+location = /wiki/Xadow_tutorial-Communicate_via_BLE {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Tutorial_Communicate_via_BLE/ permanent;
+}
+location = /wiki/Xadow_tutorial-Acceleration_detector {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_Tutorial_Acceleration_Detector/ permanent;
+}
+location = /wiki/Grove_-_Wrapper {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Wrapper/ permanent;
+}
+location = /wiki/Grove_-_Toy_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Toy_Kit/ permanent;
+}
