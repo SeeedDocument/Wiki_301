@@ -1,4 +1,4 @@
-location = /wiki/2.8''_TFT_Touch_Shield_v2.0 {
+elocation = /wiki/2.8''_TFT_Touch_Shield_v2.0 {
     rewrite ^/ http://wiki.seeed.cc/2.8inch_TFT_Touch_Shield_v2.0/ permanent;
 }
 location = /wiki/Arch_BLE {
@@ -799,5 +799,53 @@ location = /wiki/Grove_-_Serial_RF_Pro {
 }
 location = /wiki/Grove_-_Servo {
     rewrite ^/ http://wiki.seeedstudio.com/wiki/Grove_-_Servo permanent;
+}
+location = /wiki/GPRS_Shield_V1.0 {
+    rewrite ^/ http://wiki.seeed.cc/GPRS_Shield_v1.0/ permanent;
+}
+location = /wiki/4WD_Driver_Platform_V1.0 {
+    rewrite ^/ http://wiki.seeed.cc/4WD_Driver_Platform_V1.0/ permanent;
+}
+location = /wiki/Adjustable_DC_-_DC_Power_Converter(1V_-_12V1.5A) {
+    rewrite ^/ http://wiki.seeed.cc/Adjustable_DC_DC_Power_Converter_1V-12V-1.5A/ permanent;
+}
+location = /wifi/Basic_Fastener_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Basic_Fastener_Kit/ permanent;
+}
+location = /wifi/BLE_(dual)_Bee_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/BLE_dual_Bee_v1.0/ permanent;
+}
+location = /wifi/BLE_Micro {
+    rewrite ^/ http://wiki.seeed.cc/BLE_Micro/ permanent;
+}
+location = /wifi/Bluetooth_Bee_v2.0 {
+    rewrite ^/ http://wiki.seeed.cc/Bluetooth_Bee_v2.0/ permanent;
+}
+location = /wifi/Bluetooth_Bee-Standalone {
+    rewrite ^/ http://wiki.seeed.cc/Bluetooth_Bee_v2.0/ permanent;
+}
+location = /wifi/Bluetooth_Shield_V2.0 {
+    rewrite ^/ http://wiki.seeed.cc/Bluetooth_Shield_V2/ permanent;
+}
+location = /wifi/Grove_Speech_Recognizer_Kit_for_Arduino {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Speech_Recognizer_Kit_for_Arduino/ permanent;
+}
+location = /wifi/Camera_Shield {
+    rewrite ^/ http://wiki.seeed.cc/Camera_Shield/ permanent;
+}
+location = /wifi/Eclipse_IDE_for_RePhone_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Eclipse_IDE_for_RePhone_Kit/ permanent;
+}
+location = /wifi/Grove_-_Temperature_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Temperature_Sensor/ permanent;
+}
+location = /wifi/Grove_-_Circular_LED {
+    rewrite ^/ http://wiki.seeedstudio.com/wiki/Grove_-_Circular_LED permanent;
+}
+location = /wifi/Grove_-_Bee_Socket {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Bee_Socket/ permanent;
+}
+location = /wifi/Grove_-_DMX512 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-DMX512/ permanent;
 }
 
