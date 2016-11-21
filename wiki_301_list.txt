@@ -1,4 +1,4 @@
-location = /wiki/2.8''_TFT_Touch_Shield_v2.0 {
+﻿location = /wiki/2.8''_TFT_Touch_Shield_v2.0 {
     rewrite ^/ http://wiki.seeed.cc/2.8inch_TFT_Touch_Shield_v2.0/ permanent;
 }
 location = /wiki/Arch_BLE {
