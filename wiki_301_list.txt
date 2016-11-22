@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ﻿location = /wiki/2.8''_TFT_Touch_Shield_v2.0 {
-=======
-elocation = /wiki/2.8''_TFT_Touch_Shield_v2.0 {
->>>>>>> f27543c5edd0c7b27221e4803b6e901a62d7465a
     rewrite ^/ http://wiki.seeed.cc/2.8inch_TFT_Touch_Shield_v2.0/ permanent;
 }
 location = /wiki/Arch_BLE {
@@ -273,6 +269,9 @@ location = /wiki/Grove_-_Infrared_Reflective_Sensor {
     rewrite ^/ http://wiki.seeed.cc/Grove-Infrared_Reflective_Sensor/ permanent;
 }
 location = /wiki/Grove_-_Infrared_Temperature_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Infrared_Temperature_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Infrared_temperature_sensor {
     rewrite ^/ http://wiki.seeed.cc/Grove-Infrared_Temperature_Sensor/ permanent;
 }
 location = /wiki/Grove_-_LCD_RGB_Backlight {
@@ -852,4 +851,3 @@ location = /wifi/Grove_-_Bee_Socket {
 location = /wifi/Grove_-_DMX512 {
     rewrite ^/ http://wiki.seeed.cc/Grove-DMX512/ permanent;
 }
-
