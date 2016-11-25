@@ -866,3 +866,37 @@ location = /wiki/Grove_-_DMX512 {
 location = /wiki/CAN-BUS_shield {
     rewrite ^/ http://wiki.seeed.cc/CAN-BUS_Shield_V1.2/ permanent;
 }
+location = /wiki/UartSBee_V4 {
+    rewrite ^/ http://wiki.seeed.cc/UartSBee_V4/ permanent;
+}
+location = /wiki/Grove_-_Finger-clip_Heart_Rate_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Finger-clip_Heart_Rate_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Finger-clip_Heart_Rate_Sensor_with_shell {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Finger-clip_Heart_Rate_Sensor_with_shell/ permanent;
+}
+location = /wiki/4WD_Mecanum_Wheel_Robot_Kit_Series {
+    rewrite ^/ http://wiki.seeed.cc/4WD_Mecanum_Wheel_Robot_Kit_Series/ permanent;
+}
+location = /wiki/Grove_-_Recorder {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Recorder/ permanent;
+}
+location = /wiki/Grove_-_XBee_Carrier {
+    rewrite ^/ http://wiki.seeed.cc/Grove-XBee_Carrier/ permanent;
+}
+location = /wiki/Grove_Base_BoosterPack {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Base_BoosterPack/ permanent;
+}
+location = /wiki/Grove_Base_Shield_for_NodeMCU_V1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Base_Shield_for_NodeMCU_V1.0/ permanent;
+}
+location = /wiki/Grove_Base_Shield_for_Photon {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Base_Shield_for_Photon/ permanent;
+}
+location = /wiki/Grove_Cape_for_BeagleBone_Series {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Cape_for_BeagleBone_Series/ permanent;
+}
+location = /wiki/Grove_Indoor_Environment_Kit_for_Edison {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Indoor_Environment_Kit_for_Edison/ permanent;
+}
+
