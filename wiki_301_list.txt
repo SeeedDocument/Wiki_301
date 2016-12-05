@@ -866,3 +866,15 @@ location = /wiki/Grove_-_DMX512 {
 location = /wiki/CAN-BUS_shield {
     rewrite ^/ http://wiki.seeed.cc/CAN-BUS_Shield_V1.2/ permanent;
 }
+location = /wiki/Grove_-_Base_shield_v2 {
+    rewrite ^/ http://wiki.seeed.cc/Base_Shield_V2/  permanent;
+}
+location = /wiki/Grove_-_Dust_sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Dust_Sensor/  permanent;
+}
+location = /wiki/2.8''_TFT_Touch_Shield_V2.0 {
+    rewrite ^/ http://wiki.seeed.cc/2.8inch_TFT_Touch_Shield_v2.0/ permanent;
+}
+location = /wiki/Relay_Shield_V3.0 {
+    rewrite ^/ http://wiki.seeed.cc/Relay_Shield_v3/ permanent;
+}
