@@ -878,3 +878,87 @@ location = /wiki/2.8''_TFT_Touch_Shield_V2.0 {
 location = /wiki/Relay_Shield_V3.0 {
     rewrite ^/ http://wiki.seeed.cc/Relay_Shield_v3/ permanent;
 }
+location = /wiki/UartSBee_V4 {
+    rewrite ^/ http://wiki.seeed.cc/UartSBee_V4/ permanent;
+}
+location = /wiki/Grove_-_Finger-clip_Heart_Rate_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Finger-clip_Heart_Rate_Sensor/ permanent;
+}
+location = /wiki/Grove_-_Finger-clip_Heart_Rate_Sensor_with_shell {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Finger-clip_Heart_Rate_Sensor_with_shell/ permanent;
+}
+location = /wiki/4WD_Mecanum_Wheel_Robot_Kit_Series {
+    rewrite ^/ http://wiki.seeed.cc/4WD_Mecanum_Wheel_Robot_Kit_Series/ permanent;
+}
+location = /wiki/Grove_-_Recorder {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Recorder/ permanent;
+}
+location = /wiki/Grove_-_XBee_Carrier {
+    rewrite ^/ http://wiki.seeed.cc/Grove-XBee_Carrier/ permanent;
+}
+location = /wiki/Grove_Base_BoosterPack {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Base_BoosterPack/ permanent;
+}
+location = /wiki/Grove_Base_Shield_for_NodeMCU_V1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Base_Shield_for_NodeMCU_V1.0/ permanent;
+}
+location = /wiki/Grove_Base_Shield_for_Photon {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Base_Shield_for_Photon/ permanent;
+}
+location = /wiki/Grove_Cape_for_BeagleBone_Series {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Cape_for_BeagleBone_Series/ permanent;
+}
+location = /wiki/Grove_Indoor_Environment_Kit_for_Edison {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Indoor_Environment_Kit_for_Edison/ permanent;
+}
+location = /wiki/Mbed_Shield {
+    rewrite ^/ http://wiki.seeed.cc/mbed_Shield/ permanent;
+}
+location = /wiki/Grove_-_Mega_Shield {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Mega_Shield/ permanent;
+}
+location = /wiki/Mesh_Bee {
+    rewrite ^/ http://wiki.seeedstudio.com/wiki/Mesh_Bee permanent;
+}
+location = /wiki/Protoshield_Kit_for_Arduino {
+    rewrite ^/ http://wiki.seeed.cc/Protoshield_Kit_for_Arduino/ permanent;
+}
+location = /wiki/Qi_Wireless_Charger_Transmitter {
+    rewrite ^/ http://wiki.seeed.cc/Qi_Wireless_Charger_Transmitter/ permanent;
+}
+location = /wiki/Rainbow_Cube_kit_-_RGB_4*4*4_(Rainbowduino_Compatible) {
+    rewrite ^/ http://wiki.seeed.cc/Rainbow_Cube_kit_RGB_4_4_4_Rainbowduino_Compatible/ permanent;
+}
+location = /wiki/Rainbowduino_LED_driver_platform_-_ATmega328 {
+    rewrite ^/ http://wiki.seeed.cc/Rainbowduino_LED_driver_platform-ATmega328/ permanent;
+}
+location = /wiki/RePhone_Geo_Kit {
+    rewrite ^/ http://wiki.seeed.cc/RePhone_Geo_Kit/ permanent;
+}
+location = /wiki/RePhone_Lumi_Kit {
+    rewrite ^/ http://wiki.seeed.cc/RePhone_Lumi_Kit/ permanent;
+}
+location = /wiki/RePhone_Strap_Kit_for_Pebble {
+    rewrite ^/ http://wiki.seeed.cc/RePhone_Strap_Kit_for_Pebble/ permanent;
+}
+location = /wiki/Seeed_BLE_Shield_v1 {
+    rewrite ^/ http://wiki.seeed.cc/Seeed_BLE_Shield/ permanent;
+}
+location = /wiki/Seeeduino_Ethernet {
+    rewrite ^/ http://wiki.seeed.cc/Seeeduino_Ethernet/ permanent;
+}
+location = /wiki/Seeeduino_Lite {
+    rewrite ^/ http://wiki.seeed.cc/Seeeduino_Lite/ permanent;
+}
+location = /wiki/Breakout_for_LinkIt_Smart_7688 {
+    rewrite ^/ http://wiki.seeed.cc/Breakout_for_LinkIt_Smart_7688/ permanent;
+}
+location = /wiki/Seeeduino_Mega_Protoshield_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Seeeduino_Mega_Protoshield_Kit/ permanent;
+}
+location = /wiki/Seeeduino_Stalker_V3_-_Waterproof_Solar_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Seeeduino_Stalker_V3-Waterproof_Solar_Kit/ permanent;
+}
+location = /wiki/Seeeduino_Stalker_v3_enclosure {
+    rewrite ^/ http://wiki.seeed.cc/Seeeduino_Stalker_v3_enclosure/ permanent;
+}
