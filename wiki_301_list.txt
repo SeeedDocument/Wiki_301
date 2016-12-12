@@ -962,3 +962,54 @@ location = /wiki/Seeeduino_Stalker_V3_-_Waterproof_Solar_Kit {
 location = /wiki/Seeeduino_Stalker_v3_enclosure {
     rewrite ^/ http://wiki.seeed.cc/Seeeduino_Stalker_v3_enclosure/ permanent;
 }
+location = /wiki/Sidekick_Basic_Kit_for_Arduino_V2 {
+    rewrite ^/ http://wiki.seeed.cc/Sidekick_Basic_Kit_for_Arduino_V2/ permanent;
+}
+location = /wiki/Skeleton_Bot_-_4WD_hercules_mobile_robotic_platform {
+    rewrite ^/ http://wiki.seeed.cc/Skeleton_Bot-4WD_hercules_mobile_robotic_platform/ permanent;
+}
+location = /wiki/Skeleton_box {
+    rewrite ^/ http://wiki.seeed.cc/Skeleton_Box/ permanent;
+}
+location = /wiki/Skeleton_Box_(10x7,10x10,17x10) {
+    rewrite ^/ http://wiki.seeed.cc/Skeleton_Box_10x7_10x10_17x10/ permanent;
+}
+location = /wiki/Skeleton_box_for_Beaglebone {
+    rewrite ^/ http://wiki.seeed.cc/Skeleton_box_for_Beaglebone/ permanent;
+}
+location = /wiki/Skeleton_box_for_Rasberry_Pi {
+    rewrite ^/ http://wiki.seeed.cc/Skeleton_box_for_Rasberry_Pi/ permanent;
+}
+location = /wiki/Small_e-Paper_Shield_V2 {
+    rewrite ^/ http://wiki.seeed.cc/Small_e-Paper_Shield_V2/ permanent;
+}
+location = /wiki/Solar_Charger_Shield_V2.2 {
+    rewrite ^/ http://wiki.seeed.cc/Solar_Charger_Shield_V2.2/ permanent;
+}
+location = /wiki/Tiny_BLE {
+    rewrite ^/ http://wiki.seeed.cc/Tiny_BLE/ permanent;
+}
+location = /wiki/Grove_-_Differential_Amplifier_v1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Differential_Amplifier_v1.0/ permanent;
+}
+location = /wiki/Unibody_box_for_Galileo_Gen2 {
+    rewrite ^/ http://wiki.seeed.cc/Unibody_box_for_Galileo_Gen2/ permanent;
+}
+location = /wiki/USB_To_Uart_5V {
+    rewrite ^/ http://wiki.seeed.cc/USB_To_Uart_5V/ permanent;
+}
+location = /wiki/USB_To_Uart_5V/3V3 {
+    rewrite ^/ http://wiki.seeed.cc/USB_To_Uart_5V_3V3/ permanent;
+}
+location = /wiki/Wifi_Bee_V2.0 {
+    rewrite ^/ http://wiki.seeed.cc/Wifi_Bee_v2.0/ permanent;
+}
+location = /wiki/Wifi_Shield_(Fi250)_V1.1 {
+    rewrite ^/ http://wiki.seeed.cc/Wifi_Shield_Fi250_V1.1/ permanent;
+}
+location = /wiki/Seeeduino_Arch_V1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Seeeduino_Arch_V1.0/ permanent;
+}
+location = /wiki/XBee_Shield_V2.0 {
+    rewrite ^/ http://wiki.seeed.cc/XBee_Shield_V2.0/ permanent;
+}
