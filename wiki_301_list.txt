@@ -1013,3 +1013,149 @@ location = /wiki/Seeeduino_Arch_V1.0 {
 location = /wiki/XBee_Shield_V2.0 {
     rewrite ^/ http://wiki.seeed.cc/XBee_Shield_V2.0/ permanent;
 }
+location = /wiki/DSO_Quad {
+    rewrite ^/ http://wiki.seeed.cc/DSO_Quad/ permanent;
+}
+location = /wiki/DSO_Nano {
+    rewrite ^/ http://wiki.seeed.cc/DSO_Nano/ permanent;
+}
+location = /wiki/DSO_Nano_v3 {
+    rewrite ^/ http://wiki.seeed.cc/DSO_Nano_v3/ permanent;
+}
+location = /wiki/Raspberry_Pi_3_Model_B {
+    rewrite ^/ http://wiki.seeed.cc/Raspberry_Pi_3_Model_B/ permanent;
+}
+location = /wiki/2KM_Long_Range_RF_link_kits_w/_encoder_and_decoder {
+    rewrite ^/ http://wiki.seeed.cc/2KM_Long_Range_RF_link_kits_w_encoder_and_decoder/ permanent;
+}
+location = /wiki/GrovePi%2B {
+    rewrite ^/ http://wiki.seeed.cc/GrovePi_Plus/ permanent;
+}
+location = /wiki/Bluetooth_V4.0_HM-11_BLE_Module {
+    rewrite ^/ http://wiki.seeed.cc/Bluetooth_V4.0_HM_11_BLE_Module/ permanent;
+}
+location = /wiki/Mini_Soldering_Iron {
+    rewrite ^/ http://wiki.seeed.cc/Mini_Soldering_Iron/ permanent;
+}
+location = /wiki/Wireless_Sensor_Node_-_Solar_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Wireless_Sensor_Node-Solar_Kit/ permanent;
+}
+location = /wiki/Ultra_Sonic_range_measurement_module {
+    rewrite ^/ http://wiki.seeed.cc/Ultra_Sonic_range_measurement_module/ permanent;
+}
+location = /wiki/LoNet_808_-_Mini_GSM/GPRS_%2B_GPS_Breakout {
+    rewrite ^/ http://wiki.seeed.cc/LoNet_808-Mini_GSM_GPRS_Plus_GPS_Breakout/ permanent;
+}
+location = /wiki/LoNet_808_-_Mini_GSM/GPRS_%2B_GPS_Breakout {
+    rewrite ^/ http://wiki.seeed.cc/LoNet_808-Mini_GSM_GPRS_Plus_GPS_Breakout/ permanent;
+}
+location = /wiki/0.5w_Solar_Panel_55*70 {
+    rewrite ^/ http://wiki.seeed.cc/0.5w_Solar_Panel_55x70/ permanent;
+}
+location = /wiki/GPS_Bee_kit {
+    rewrite ^/ http://wiki.seeed.cc/GPS_Bee_kit/ permanent;
+}
+location = /wiki/315Mhz_RF_link_kit {
+    rewrite ^/ http://wiki.seeed.cc/315Mhz_RF_link_kit/ permanent;
+}
+location = /wiki/13.56Mhz_RFID_module_-_IOS/IEC_14443_type_a {
+    rewrite ^/ http://wiki.seeed.cc/13.56Mhz_RFID_module-IOS-IEC_14443_type_a/ permanent;
+}
+location = /wiki/3W_Solar_Panel_138*160 {
+    rewrite ^/ http://wiki.seeed.cc/3W_Solar_Panel_138x160/ permanent;
+}
+location = /wiki/G3/4_Water_Flow_sensor {
+    rewrite ^/ http://wiki.seeed.cc/G3-4_Water_Flow_sensor/ permanent;
+}
+location = /wiki/PIR_Motion_sensor_module {
+    rewrite ^/ http://wiki.seeed.cc/PIR_Motion_sensor_module/ permanent;
+}
+location = /wiki/G1%271/4_Water_Flow_sensor {
+    rewrite ^/ http://wiki.seeed.cc/G1-1-4_Water_Flow_sensor/ permanent;
+}
+location = /wiki/G1/4%22_Water_Flow_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/G1_4_Water_Flow_Sensor/ permanent;
+}
+location = /wiki/Codec-Adaptive_Wireless_Relay {
+    rewrite ^/ http://wiki.seeed.cc/Codec-Adaptive_Wireless_Relay/ permanent;
+}
+location = /wiki/Fubarino_SD {
+    rewrite ^/ http://wiki.seeed.cc/Fubarino_SD/ permanent;
+}
+location = /wiki/315Mhz_remote_relay_switch_kits_-_2_channels {
+    rewrite ^/ http://wiki.seeed.cc/315Mhz_remote_relay_switch_kits-2_channels/ permanent;
+}
+location = /wiki/LCD_8*2_Characters-_Blue_back_light {
+    rewrite ^/ http://wiki.seeed.cc/LCD_8-2_Characters-Blue_back_light/ permanent;
+}
+location = /wiki/G1%22_Water_Flow_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/G1_Water_Flow_Sensor/ permanent;
+}
+location = /wiki/LCD_16*2_Characters-_Green_Yellow_back_light {
+    rewrite ^/ http://wiki.seeed.cc/LCD_16-2_Characters-Green_Yellow_back_light/ permanent;
+}
+location = /wiki/Matrix_Clock {
+    rewrite ^/ http://wiki.seeed.cc/Matrix_Clock/ permanent;
+}
+location = /wiki/Bus_Pirate_v3_(assembled) {
+    rewrite ^/ http://wiki.seeed.cc/Bus_Pirate_v3_assembled/ permanent;
+}
+location = /wiki/Bicycle_Dynamo_With_Bracket_-_6V_3W {
+    rewrite ^/ http://wiki.seeed.cc/Bicycle_Dynamo_With_Bracket-6V_3W/ permanent;
+}
+location = /wiki/Danger_Shield_Complete_Kits {
+    rewrite ^/ http://wiki.seeed.cc/Danger_Shield_Complete_Kits/ permanent;
+}
+location = /wiki/CUI32Stem {
+    rewrite ^/ http://wiki.seeed.cc/CUI32Stem/ permanent;
+}
+location = /wiki/FST-01 {
+    rewrite ^/ http://wiki.seeed.cc/FST-01/ permanent;
+}
+location = /wiki/Photo_interrupter_(OS25B10) {
+    rewrite ^/ http://wiki.seeed.cc/Photo_interrupter_OS25B10/ permanent;
+}
+location = /wiki/Weight_Sensor_(Load_Cell)0-500g {
+    rewrite ^/ http://wiki.seeed.cc/Weight_Sensor_Load_Cell_0-500g/ permanent;
+}
+location = /wiki/WireLess_Gate_Shield_V1.0 {
+    rewrite ^/ http://wiki.seeed.cc/WireLess_Gate_Shield_V1.0/ permanent;
+}
+location = /wiki/315MHz_Simple_RF_Link_Kit {
+    rewrite ^/ http://wiki.seeed.cc/315MHz_Simple_RF_Link_Kit/ permanent;
+}
+location = /wiki/SDLogger_-_Open_Hardware_Data_Logger {
+    rewrite ^/ http://wiki.seeed.cc/SDLogger-Open_Hardware_Data_Logger/ permanent;
+}
+location = /wiki/315Mhz_Wireless_car_key_fob_with_key_chain {
+    rewrite ^/ http://wiki.seeed.cc/315Mhz_Wireless_car_key_fob_with_key_chain/ permanent;
+}
+location = /wiki/2.5W_Solar_Panel_116*160 {
+    rewrite ^/ http://wiki.seeed.cc/2.5W_Solar_Panel_116x160/ permanent;
+}
+location = /wiki/Photo_Reflective_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Photo_Reflective_Sensor/ permanent;
+}
+location = /wiki/G1/8%22_Water_Flow_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/G1-8_Water_Flow_Sensor/ permanent;
+}
+location = /wiki/Bugduino {
+    rewrite ^/ http://wiki.seeed.cc/Bugduino/ permanent;
+}
+location = /wiki/Capacitance_Meter_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Capacitance_Meter_Kit/ permanent;
+}
+location = /wiki/Grove_-_Base_Shield_for_IOIO-OTG {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Base_Shield_for_IOIO-OTG/ permanent;
+}
+location = http://wiki.seeedstudio.com/wiki/AVR_USB_Programmer {
+    rewrite ^/ http://wiki.seeed.cc/AVR_USB_Programmer/ permanent;
+}
+location = /wiki/Starter_bundle_harness_V1.0 {
+    rewrite ^/ http://wiki.seeed.cc/Starter_bundle_harness_V1/ permanent;
+}
+location = /wiki/Piezo_Sensor_-_MiniSense_100 {
+    rewrite ^/ http://wiki.seeed.cc/Piezo_Sensor-MiniSense_100/ permanent;
+}
+
+
