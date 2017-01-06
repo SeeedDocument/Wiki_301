@@ -1157,5 +1157,88 @@ location = /wiki/Starter_bundle_harness_V1.0 {
 location = /wiki/Piezo_Sensor_-_MiniSense_100 {
     rewrite ^/ http://wiki.seeed.cc/Piezo_Sensor-MiniSense_100/ permanent;
 }
+location = /wiki/Zigbee_Networking_with_XBee_Series_2_and_Seeed's_Products {
+    rewrite ^/ http://wiki.seeed.cc/Zigbee_Networking_with_XBee_Series_2_and_Seeeds_Products/ permanent;
+}
+location = /wiki/Getting_Started_with_Seeeduino {
+    rewrite ^/ http://wiki.seeed.cc/Getting_Started_with_Seeeduino/ permanent;
+}
+location = /wiki/Download_Arduino_and_install_Arduino_driver {
+    rewrite ^/ http://wiki.seeed.cc/Download_Arduino_and_install_Arduino_driver permanent;
+}
+location = /wiki/Dfu-util {
+    rewrite ^/ http://wiki.seeed.cc/Dfu-util/ permanent;
+}
+location = /wiki/Upload_Code {
+    rewrite ^/ http://wiki.seeed.cc/Upload_Code/ permanent;
+}
+location = /wiki/Project_Seven_-_Temperature {
+    rewrite ^/ http://wiki.seeed.cc/Project_Seven-Temperature/ permanent;
+}
+location = /wiki/Project_Five_%E2%80%93_Relay_Control {
+    rewrite ^/ http://wiki.seeed.cc/Project_Five-Relay_Control/ permanent;
+}
+location = /wiki/I2C_And_I2C_Address_of_Seeed_Product {
+    rewrite ^/ http://wiki.seeed.cc/I2C_And_I2C_Address_of_Seeed_Product/ permanent;
+}
+location = /wiki/How_To_Choose_The_Right_Cable {
+    rewrite ^/ http://wiki.seeed.cc/How_To_Choose_The_Right_Cable/ permanent;
+}
+location = /wiki/How_to_use_and_write_a_library {
+    rewrite ^/ http://wiki.seeed.cc/How_to_use_and_write_a_library/ permanent;
+}
+location = /wiki/How_To_Use_Sketchbook {
+    rewrite ^/ http://wiki.seeed.cc/How_To_Use_Sketchbook/ permanent;
+}
+location = /wiki/How_to_install_Arduino_Library {
+    rewrite ^/ http://wiki.seeed.cc/How_to_install_Arduino_Library/ permanent;
+}
+location = /wiki/Project_One_-_Blink {
+    rewrite ^/ http://wiki.seeed.cc/Project_One-Blink/ permanent;
+}
+location = /wiki/Project_Six_%E2%80%93_LCD_Demonstration {
+    rewrite ^/ http://wiki.seeed.cc/Project_Six-LCD_Demonstration/ permanent;
+}
+location = /wiki/A_Handy_Serial_Library {
+    rewrite ^/ http://wiki.seeed.cc/A_Handy_Serial_Library/ permanent;
+}
+location = /wiki/Project_Eight_-_Thermostat {
+    rewrite ^/ http://wiki.seeed.cc/Project_Eight-Thermostat/ permanent;
+}
+location = /wiki/LinkIt_ONE_Tutorial_-_Get_temperature_with_Webpage {
+    rewrite ^/ http://wiki.seeed.cc/LinkIt_ONE_Tutorial-Get_temperature_with_Webpage/ permanent;
+}
+location = /wiki/Project_Four_%E2%80%93_Noise_Maker {
+    rewrite ^/ http://wiki.seeed.cc/Project_Four-Noise_Maker/ permanent;
+}
+location = /wiki/Arduino_Common_Error {
+    rewrite ^/ http://wiki.seeed.cc/Arduino_Common_Error/ permanent;
+}
+location = /wiki/Use_External_Editor {
+    rewrite ^/ http://wiki.seeed.cc/Use_External_Editor/ permanent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
