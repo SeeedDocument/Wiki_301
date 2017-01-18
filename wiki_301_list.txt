@@ -1217,6 +1217,102 @@ location = /wiki/Arduino_Common_Error {
 location = /wiki/Use_External_Editor {
     rewrite ^/ http://wiki.seeed.cc/Use_External_Editor/ permanent;
 }
+location = /wiki/Piezo_Sensor_-_MiniSense_100 {
+    rewrite ^/ http://wiki.seeed.cc/Piezo_Sensor-MiniSense_100/ permanent;
+}
+location = /wiki/125Khz_RFID_module_-_UART {
+    rewrite ^/ http://wiki.seeed.cc/125Khz_RFID_module-UART/ permanent;
+}
+location = /wiki/DSO_Quad_Manual_(by_the_community) {
+    rewrite ^/ http://wiki.seeed.cc/DSO_Quad_Manual_by_the_community/ permanent;
+}
+location = /wiki/DSO_Nano/Qemu_gdb {
+    rewrite ^/ http://wiki.seeed.cc/DSO_Nano-Qemu_gdb/ permanent;
+}
+location = /wiki/Scream_out_loud_-_110dBA_fixed_tone_Siren {
+    rewrite ^/ http://wiki.seeed.cc/Scream_out_loud-110dBA_fixed_tone_Siren/ permanent;
+}
+location = /wiki/Renbotics_ServoShield_Rev {
+    rewrite ^/ http://wiki.seeed.cc/Renbotics_ServoShield_Rev/ permanent;
+}
+location = /wiki/DSO_Quad:Building_Firmware {
+    rewrite ^/ http://wiki.seeed.cc/DSO_Quad-Building_Firmware/ permanent;
+}
+location = /wiki/DC_framework_solenoid_HCNE1-0520 {
+    rewrite ^/ http://wiki.seeed.cc/DC_framework_solenoid_HCNE1-0520/ permanent;
+}
+location = /wiki/DSO_Nano/Development {
+    rewrite ^/ http://wiki.seeed.cc/DSO_Nano-Development/ permanent;
+}
+location = /wiki/1.5W_Solar_Panel_81*137 {
+    rewrite ^/ http://wiki.seeed.cc/1.5W_Solar_Panel_81x137/ permanent;
+}
+location = /wiki/DSO_Nano/gcc {
+    rewrite ^/ http://wiki.seeed.cc/DSO_Nano-gcc/ permanent;
+}
+location = /wiki/Raspberry_PI_B+_Case {
+    rewrite ^/ http://wiki.seeed.cc/Raspberry_PI_Bplus_Case/ permanent;
+}
+location = /wiki/FSM-55 {
+    rewrite ^/ http://wiki.seeed.cc/FSM-55/ permanent;
+}
+location = /wiki/DC_framework_solenoid_HCNE1-0630 {
+    rewrite ^/ http://wiki.seeed.cc/DC_framework_solenoid_HCNE1-0630/ permanent;
+}
+location = /wiki/Shield_MaTrix_V0.9b {
+    rewrite ^/ http://wiki.seeed.cc/Shield-MaTrix-V0.9b/ permanent;
+}
+location = /wiki/Bracket_for_Infrared_Proximity_Sensor {
+    rewrite ^/ http://wiki.seeed.cc/Bracket_for_Infrared_Proximity_Sensor/ permanent;
+}
+location = /wiki/RGBW_Stripe_WireLess_Shield_V1.0 {
+    rewrite ^/ http://wiki.seeed.cc/RGBW_Stripe_WireLess_Shield_V1.0/ permanent;
+}
+location = /wiki/DSO_Nano/OpenOCD_gdb {
+    rewrite ^/ http://wiki.seeed.cc/DSO_Nano-OpenOCD_gdb/ permanent;
+}
+location = /wiki/DSO_Quad:Calibration {
+    rewrite ^/ http://wiki.seeed.cc/DSO_Quad-Calibration/ permanent;
+}
+location = /wiki/Grove_-_AND {
+    rewrite ^/ http://wiki.seeed.cc/Grove-AND/ permanent;
+}
+location = /wiki/Grove_-_Node {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Node/ permanent;
+}
+location = /wiki/Grove_-_NOT {
+    rewrite ^/ http://wiki.seeed.cc/Grove-NOT/ permanent;
+}
+location = /wiki/Grove_-_NunChuck {
+    rewrite ^/ http://wiki.seeed.cc/Grove-NunChuck/ permanent;
+}
+location = /wiki/Xadow_IO_pin_mapping {
+    rewrite ^/ http://wiki.seeed.cc/Xadow_IO_pin_mapping/ permanent;
+}
+location = /wiki/Grove_-_DC_Jack_Power {
+    rewrite ^/ http://wiki.seeed.cc/Grove-DC_Jack_Power/ permanent;
+}
+location = /wiki/Grove_IoT_Developer_Kit_-_Microsoft_Azure_Edition {
+    rewrite ^/ http://wiki.seeed.cc/Grove_IoT_Developer_Kit-Microsoft_Azure_Edition/ permanent;
+}
+location = /wiki/Grove_Starter_kit_for_Arduino_101 {
+    rewrite ^/ http://wiki.seeed.cc/Grove_Starter_kit_for_Arduino_101/ permanent;
+}
+location = /wiki/Rainbow_Cube_Kit_Acrylic_Harness {
+    rewrite ^/ http://wiki.seeed.cc/Rainbow_Cube_Kit_Acrylic_Harness/ permanent;
+}
+location = /wiki/Grove_-_Joint_v2.0 {
+    rewrite ^/ http://wiki.seeed.cc/Grove-Joint_v2.0/ permanent;
+}
+location = /wiki/Sidekick_Basic_Kit_for_LinkIt_ONE {
+    rewrite ^/ http://wiki.seeed.cc/Sidekick_Basic_Kit_for_LinkIt_ONE/Sidekick_Basic_Kit_for_LinkIt_ONE/ permanent;
+}
+location = /wiki/DC_framework_miniature_solenoid_VL-0063 {
+    rewrite ^/ http://wiki.seeed.cc/DC_framework_miniature_solenoid_VL-0063/ permanent;
+}
+location = /wiki/DC_framework_miniature_solenoid_VL-0063 {
+    rewrite ^/ http://wiki.seeed.cc/DC_framework_miniature_solenoid_VL-0063/ permanent;
+}
 
 
 
