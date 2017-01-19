@@ -1310,8 +1310,14 @@ location = /wiki/Sidekick_Basic_Kit_for_LinkIt_ONE {
 location = /wiki/DC_framework_miniature_solenoid_VL-0063 {
     rewrite ^/ http://wiki.seeed.cc/DC_framework_miniature_solenoid_VL-0063/ permanent;
 }
-location = /wiki/DC_framework_miniature_solenoid_VL-0063 {
-    rewrite ^/ http://wiki.seeed.cc/DC_framework_miniature_solenoid_VL-0063/ permanent;
+location = /wiki/Grove_IoT_Starter_Kits_Powered_by_AWS {
+    rewrite ^/ http://wiki.seeed.cc/Grove_IoT_Starter_Kits_Powered_by_AWS permanent;
+}
+location = /wiki/Intel%C2%AE_Edison_and_Grove_IoT_Starter_Kit_Powered_by_AWS {
+    rewrite ^/ http://wiki.seeed.cc/Intel_Edison_and_Grove_IoT_Starter_Kit_Powered_by_AWS/ permanent;
+}
+location = /wiki/LinkIT_One_and_Grove_IoT_Starter_Kit_Powered_by_AWS {
+    rewrite ^/ http://wiki.seeed.cc/LinkIT_One_and_Grove_IoT_Starter_Kit_Powered_by_AWS/ permanent;
 }
 
 
