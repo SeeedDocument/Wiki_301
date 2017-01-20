@@ -1319,6 +1319,30 @@ location = /wiki/Intel%C2%AE_Edison_and_Grove_IoT_Starter_Kit_Powered_by_AWS {
 location = /wiki/LinkIT_One_and_Grove_IoT_Starter_Kit_Powered_by_AWS {
     rewrite ^/ http://wiki.seeed.cc/LinkIT_One_and_Grove_IoT_Starter_Kit_Powered_by_AWS/ permanent;
 }
+location = /wiki/Sketchbook_of_Sidekick_Advanced_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Sketchbook_of_Sidekick_Advanced_Kit/ permanent;
+}
+location = /wiki/LightView_201k_Digital_display_module {
+    rewrite ^/ http://wiki.seeed.cc/LightView_201k_Digital_display_module/ permanent;
+}
+location = /wiki/Nose_LED_Kit {
+    rewrite ^/ http://wiki.seeed.cc/Nose_LED_Kit/ permanent;
+}
+location = /wiki/GrovePi+ {
+    rewrite ^/ http://wiki.seeed.cc/GrovePi_Plus/ permanent;
+}
+location = /wiki/Guide_to_use_demos_downloaded_from_Seeed%27s_Github {
+    rewrite ^/ http://wiki.seeed.cc/Guide_to_use_demos_downloaded_from_Seeed-s_Github/ permanent;
+}
+location = /wiki/How_to_detect_finger_touch%3F {
+    rewrite ^/ http://wiki.seeed.cc/How_to_detect_finger_touch/ permanent;
+}
+location = /wiki/Secret_Box {
+    rewrite ^/ http://wiki.seeed.cc/Secret_Box/ permanent;
+}
+location = /wiki/Suli {
+    rewrite ^/ http://wiki.seeed.cc/Suli permanent;
+}
 
 
 
